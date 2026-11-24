@@ -1,2 +1,12 @@
-# frameplot-releases
-FramePlot - AutoCAD / AutoCAD LT A3 batch plot releases
+# FramePlot 설치 · 업데이트 안내
+
+AutoCAD / AutoCAD LT에서 도곽(Title block)을 자동으로 찾아 A3 PDF로 일괄 출력하는 프로그램입니다.
+
+## 설치 방법
+1. 오른쪽 **Releases**에서 최신 `FramePlot-Setup-<버전>.exe`를 내려받아 실행합니다.
+2. Windows 보안 경고("Windows의 PC 보호")가 뜨면 **추가 정보 → 실행**을 누릅니다.
+3. 설치가 끝나면 바탕화면의 **FramePlot** 아이콘으로 실행합니다. (Python / .NET 별도 설치 불필요)
+
+## 자동 업데이트
+- 새 버전이 올라오면 앱 상단에 업데이트 안내가 자동으로 뜹니다.
+- **[업데이트 받기] → [다시 시작해서 설치]**를 누르면 설정을 유지한 채 최신 버전으로 교체됩니다.
